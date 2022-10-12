@@ -1,3 +1,3 @@
 # Kumar S -19113049
 
-## CSB445-Deep-Learning-Practical-Component
+## CSB4451-Deep Learning-Practical-Component
